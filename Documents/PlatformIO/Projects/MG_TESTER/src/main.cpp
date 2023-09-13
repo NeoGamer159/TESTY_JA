@@ -287,7 +287,6 @@ void loop() {
         }
         else
         {
-          Serial.println();
           Serial.println("Test of LOSS FAILED");
         }
       }
